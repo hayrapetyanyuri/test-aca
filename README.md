@@ -3,5 +3,11 @@
 
 ## **✅ Quick Guide from Yuri H.** 
 
-> blockquote
-> 
+### Installation and Configuration
+Downloaded the GitHub from [**HERE**](
+https://git-scm.com/download/win) and installed it with default settings.
+
+To verify that Git is installed, run:
+
+`git --version`
+
