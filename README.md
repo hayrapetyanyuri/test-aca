@@ -13,27 +13,26 @@ To verify that Git is installed, run:
 
 ### Sign Up 
 
-1. Open the GitHub website:
+1. Open the GitHub website [**here**](https://github.com/)**:**
 2. Click Sign up in the top-right corner.
 3. Enter your:
    - Email address 
    - Password 
    - Username
-4. Choose your email verification preferences
-5. Complete the verification challenge.
-6. Click Create account.
+4. Complete the verification challenge.
+5. Click Create account.
    
 ### Create a Remote Repository on GitHub
 
 1. Login to your GitHub account
 2. Click the New repository button.
 3. Fill in:
-   - Repository name: test-aca
-   - Description (optional): nothing was writen
-   - Set it to Public: Done
+   - Repository name:* test-aca*
+   - Description (optional): *nothing was writen*
+   - Set it to Public: *Done*
 4. Click Create repository.
  
-GitHub will show you the remote URL: 
+GitHub will show you the remote URL, in my case: 
 
 > https://github.com/hayrapetyanyuri/test-aca
 
@@ -50,7 +49,7 @@ Once the VS Code is opened, we can start to type our codes or something.
 
 To make the code be beautiful and eye-catching, you can use [**THESE**](https://www.markdownguide.org/cheat-sheet/) tools from Markdown Cheat Sheet. 
 
-Once the code writting is complete, follow the steps below.
+Once the code writing is complete, follow the steps below.
 
 1. Go to **"Vew"** part of the VS code and Coose **"Terminal"**. 
 2. Type there:
