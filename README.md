@@ -1,4 +1,7 @@
-# MY FIRST GIT HUB SETUP
-### How it was installed
+# **👉 MY FIRST GIT HUB SETUP**
+### *How it was installed*
 
-## Quick Guide from Yuri H. 
+## **✅ Quick Guide from Yuri H.** 
+
+> blockquote
+> 
