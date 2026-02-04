@@ -25,16 +25,16 @@ To verify that Git is installed, run:
 
 ### 3️⃣ Create a Remote Repository on GitHub <img src="https://cdn-icons-png.flaticon.com/256/25/25231.png" alt="VS" width="24" style="vertical-align: middle;" />
 
-1. Login to your GitHub account
+1. Log in to your GitHub account
 2. Click the New repository button.
 3. Fill in:
-   - Repository name: _test-aca_
-   - Description (optional): _nothing was writen_
-   - Set it to Public: _Done_
+   - Repository name: *test-aca*
+   - Description (optional): *nothing was writen*
+   - Set it to Public: *Done*
 4. Click Create repository.
 
 GitHub will show you the remote URL, in my case:
-
+``
 > https://github.com/hayrapetyanyuri/test-aca
 
 5. Type the following in Windows PowerShell
@@ -47,7 +47,7 @@ GitHub will show you the remote URL, in my case:
 
 ## 4️⃣ Working Process
 
-Once the VS Code is opened, we can start to type our codes or something.
+Once the VS Code is opened, we can start to type our codes or something. 
 
 To make the code be beautiful and eye-catching, you can use [**THESE**](https://www.markdownguide.org/cheat-sheet/) tools from Markdown Cheat Sheet.
 
@@ -57,7 +57,7 @@ Once the code writing is complete, follow the steps below.
 2. Type there:
    > `git add .`
 3. After type the following:
-   > `git commit -m "a message about what exatly was updated"`
+    > `git commit -m "a message about what exatly was updated"`
 4. Then push the code (type this):
    > `git push`
 5. Visit your GitHub account and refresh the page. You will be amazed 😳😁.
