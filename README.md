@@ -62,6 +62,6 @@ Once the code writing is complete, follow the steps below.
 5. Visit your GitHub account and refresh the page. You will be amazed 😳😁.
    
 ## 5️⃣ Done!
-✅ Now you can enjoy your project
+✅ 1, 2, 3, and now you can enjoy your project
 
 ![alt text](image-1.png)
