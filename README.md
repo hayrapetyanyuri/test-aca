@@ -44,4 +44,22 @@ GitHub will show you the remote URL:
 
  ** **Important note for Yuri H.:** Never forget the spaces. 😁
 
-7. 
+## Working Process
+
+Once the VS Code is opened, we can start to type our codes or something. 
+
+To make the code be beautiful and eye-catching, you can use [**THESE**](https://www.markdownguide.org/cheat-sheet/) tools from Markdown Cheat Sheet. 
+
+Once the code writting is complete, follow the steps below.
+
+1. Go to **"Vew"** part of the VS code and Coose **"Terminal"**. 
+2. Type there:
+   > `git add .`
+3. After type the following:
+    > `git commit -m "a message about what exatly was updated"`
+4. Then push the code (type this):
+    > `git push`
+5. Visit your GitHub account and refresh the page, and you will be amazed 😳😁.
+   
+✅ Done! 
+Now you can enjoy your project
