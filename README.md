@@ -67,5 +67,3 @@ Once the code writing is complete, follow the steps below.
 ✅ 1, 2, 3, and now you can enjoy your project
 
 ![alt text](image-1.png)
-
-1234
