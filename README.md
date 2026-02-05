@@ -34,7 +34,7 @@ To verify that Git is installed, run:
 4. Click Create repository.
 
 GitHub will show you the remote URL, in my case:
-``
+
 > https://github.com/hayrapetyanyuri/test-aca
 
 5. Type the following in Windows PowerShell
@@ -67,3 +67,5 @@ Once the code writing is complete, follow the steps below.
 ✅ 1, 2, 3, and now you can enjoy your project
 
 ![alt text](image-1.png)
+
+1234
